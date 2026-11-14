@@ -1805,7 +1805,7 @@ function buildChampionIndex() {
   for (const rec of map.values()) {
     rec.versions.sort((a, b) => compareDate(b.date, a.date));
   }
-  state.championIndex = { map, kwToKeys, descAliases };
+  state.championIndex = { map, kwToKeys, enToKeys, descAliases };
 }
 
 function compareDate(a, b) {
