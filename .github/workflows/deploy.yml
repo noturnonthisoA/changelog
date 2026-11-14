@@ -1,0 +1,81 @@
+name: Deploy changelog
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'changelog/**'
+      - 'data/**'
+      - 'index.html'
+      - 'assets/**'
+      - 'update/**'
+      - '.github/workflows/deploy.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # 全自动：先按 changelog/*.txt 重建清单，再按 data/ 重建图鉴数据
+      - name: 重建日志清单
+        run: python update/update_changelog.py
+
+      - name: 重建图鉴数据
+        run: python update/update_champions.py --offline
+
+      - name: Build static site
+        run: python update/build_site.py --out _site
+
+      # 生成物与仓库不一致时（例如网页端直接加了 txt），用 GITHUB_TOKEN 回写。
+      # [skip ci] 保证这次回写不会再触发新的 workflow，不会死循环。
+      - name: 回写生成的清单
+        continue-on-error: true
+        run: |
+          if git diff --quiet -- changelog/index.json data/champions.json; then
+            echo "生成物无变化，跳过提交。"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add changelog/index.json data/champions.json
+          git commit -m "chore(changelog): update generated files [skip ci]"
+          git push origin HEAD:main
+          echo "已回写 changelog/index.json 与 data/champions.json。"
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
