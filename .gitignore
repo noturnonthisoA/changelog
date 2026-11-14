@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+*.log
+changelog_gui.py
+serve.py
+sync.py
+*.bat
+.md

@@ -1,0 +1,19 @@
+{
+  "name": "masteraio-changelog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MasterAio 更新日志静态站点：changelog/*.txt 数据源 + 本地/CI 自动同步",
+  "scripts": {
+    "serve": "python update/serve.py",
+    "edit": "python update/changelog_gui.py",
+    "update:champions": "python update/update_champions.py",
+    "update:champions:offline": "python update/update_champions.py --offline",
+    "update:changelog": "python update/update_changelog.py",
+    "build": "python update/update_changelog.py && python update/update_champions.py --offline && python update/build_site.py",
+    "check": "python update/update_changelog.py --check && python update/update_champions.py --check",
+    "sync": "python update/sync.py --once",
+    "watch": "python update/sync.py --watch",
+    "import-lua": "python update/import_lua.py"
+  },
+  "type": "module"
+}

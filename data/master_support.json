@@ -1,0 +1,202 @@
+[
+  "ahri",
+  "akali",
+  "akshan",
+  "alistar",
+  {
+    "alias": "ambessa",
+    "names": [
+      "狼母"
+    ]
+  },
+  "amumu",
+  "anivia",
+  "annie",
+  "aphelios",
+  "ashe",
+  "aurelionsol",
+  "aurora",
+  "belveth",
+  "blitzcrank",
+  "brand",
+  "caitlyn",
+  "camille",
+  "cassiopeia",
+  "chogath",
+  "corki",
+  "darius",
+  "diana",
+  "draven",
+  "drmundo",
+  "ekko",
+  "elise",
+  "evelynn",
+  {
+    "alias": "ezreal",
+    "names": [
+      "伊泽"
+    ]
+  },
+  "fiddlesticks",
+  "fiora",
+  "gangplank",
+  "garen",
+  "graves",
+  "gwen",
+  "hecarim",
+  "illaoi",
+  {
+    "alias": "irelia",
+    "names": [
+      "刀妹"
+    ]
+  },
+  "jarvaniv",
+  "jax",
+  "jayce",
+  "jhin",
+  "jinx",
+  "kaisa",
+  {
+    "alias": "kalista",
+    "names": [
+      "滑板鞋"
+    ]
+  },
+  "karthus",
+  "kassadin",
+  "katarina",
+  "kayle",
+  "kayn",
+  "kennen",
+  "khazix",
+  "kindred",
+  "kogmaw",
+  "leblanc",
+  "leesin",
+  "leona",
+  "lillia",
+  "lissandra",
+  "locke",
+  "lucian",
+  {
+    "alias": "lulu",
+    "names": [
+      "露露"
+    ]
+  },
+  "lux",
+  "malphite",
+  "malzahar",
+  {
+    "alias": "masteryi",
+    "names": [
+      "易大师"
+    ]
+  },
+  "mel",
+  "milio",
+  {
+    "alias": "missfortune",
+    "names": [
+      "女枪"
+    ]
+  },
+  {
+    "alias": "monkeyking",
+    "names": [
+      "悟空"
+    ]
+  },
+  "mordekaiser",
+  "morgana",
+  "naafiri",
+  "nami",
+  "nasus",
+  "nautilus",
+  "nidalee",
+  "nilah",
+  "nocturne",
+  "olaf",
+  "orianna",
+  "ornn",
+  "pantheon",
+  "poppy",
+  "pyke",
+  {
+    "alias": "qiyana",
+    "names": [
+      "琪亚娜"
+    ]
+  },
+  "quinn",
+  "renekton",
+  "rengar",
+  "riven",
+  {
+    "alias": "ryze",
+    "names": [
+      "流浪"
+    ]
+  },
+  "samira",
+  "senna",
+  "seraphine",
+  "sett",
+  "sivir",
+  "smolder",
+  "sona",
+  "soraka",
+  "swain",
+  "sylas",
+  "syndra",
+  "taliyah",
+  "talon",
+  "taric",
+  "teemo",
+  "thresh",
+  {
+    "alias": "tristana",
+    "names": [
+      "炮娘"
+    ]
+  },
+  "tryndamere",
+  "twistedfate",
+  "twitch",
+  "varus",
+  "vayne",
+  {
+    "alias": "veigar",
+    "names": [
+      "小法"
+    ]
+  },
+  {
+    "alias": "vex",
+    "names": [
+      "薇克丝"
+    ]
+  },
+  "viktor",
+  "vladimir",
+  {
+    "alias": "wukong",
+    "names": [
+      "悟空",
+      "猴子",
+      "齐天大圣"
+    ]
+  },
+  "xayah",
+  "xerath",
+  "xinzhao",
+  "yasuo",
+  "yone",
+  "yunara",
+  "zaahen",
+  "zed",
+  "zeri",
+  "zilean",
+  "zyra"
+]
