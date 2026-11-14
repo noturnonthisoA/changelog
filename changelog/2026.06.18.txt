@@ -1,0 +1,6 @@
+# 2026.06.18
+## 通用功能 | General
+## 英雄优化 | Champions
+- Ez: QW增加风墙判定, 优化W预判 | Ezreal: QW Add Windwall Collision Check, improve W Prediction
+- 露露: 优化EQ小兵命中逻辑 | Lulu: improve E Ally minion to Q Logic
+## 活化剂优化 | Activator

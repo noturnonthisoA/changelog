@@ -1,0 +1,5 @@
+# 2026.06.29
+## 通用功能 | General
+## 英雄优化 | Champions
+- 剑姬: 重构Q破绽判定逻辑 | Fiora: Rework Q Vital Logic
+## 活化剂优化 | Activator

@@ -1,0 +1,12 @@
+# 2026.06.04
+## 通用功能 | General
+## 英雄优化 | Champions
+- 剑姬: 支持海克斯秘书冲拳 | Fiora: Support Hex "MysticPunch"
+- 船长: 优化E预判 (针对Master预判) | Gangplank: Improve E Prediction (For MasterPrediction)
+- 奥恩: 增加假如没有合适目标就直接R2选项 | Ornn: Add Always R2 if No Good Targets Option
+- 韦鲁斯: 修复Q在某些情况下计算错误导致不放 | Varus: fixed Q in some cast wont be cast issue
+- 薇恩: 重构钉墙判定逻辑, 增加更多的E限制逻辑, 优化Q点位计算, 隐身增加假如跟目标很近且自身有进攻意图 | Vayne: rework E Condemn logic, Add more limit E logic Option, improve Q Position Judgement, add "Beal Stealth if is Chase Enemy" option
+- 亚索: 增加激进智能E逻辑 | Yasuo: Add new Smart E Logic
+- 永恩: 增加'尝试E+R击杀' 选项, 增加 'E+R 命中多人' 逻辑 | Yone: Add 'try E + R Ks' option, Add 'Use E + R for AoE'Option
+- 劫: 优化骚扰W释放判定, 调整W释放位置 | Zed: improve Harass W Cast Logic, improve W Cast Position Judgement
+## 活化剂优化 | Activator

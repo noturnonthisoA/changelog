@@ -1,0 +1,6 @@
+# 2026.06.05
+## 通用功能 | General
+## 英雄优化 | Champions
+- 杰斯: 支持海克斯纯粹主义者天赋 | Jayce: Support Hex "Purist Caster"
+- 劫: 优化E释放判定, 优化连招W位置释放判定 | Zed: improve E Cast Logic, improve Combo W Cast Position
+## 活化剂优化 | Activator

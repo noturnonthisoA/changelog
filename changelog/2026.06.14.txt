@@ -1,0 +1,7 @@
+# 2026.06.14
+## 通用功能 | General
+## 英雄优化 | Champions
+- 梅尔: 优化E预判参数 | Mel: improve E Prediction
+- 泽拉斯: 增加敌人近身时优先E起手选项 | Xerath: Add 'Allow E First if Target close' Option
+- 亚索: 调整智能E逻辑 | Yasuo: improve Smart E Logic
+## 活化剂优化 | Activator

@@ -1,0 +1,10 @@
+# 2026.06.06
+## 通用功能 | General
+## 英雄优化 | Champions
+- 狼母: 优化QWE流畅度 | Ambessa: improve QWE Cast
+- 卢锡安: 优化连招Q判定 | Lucian: improve Combo Q Logic
+- 派克: 优化R击杀判定, 优化Q预判, 增加连招E逻辑, 增加屏蔽R按键 | Pyke: improve R Ks judgement, improve Q Prediction, Add Combo E Logic,  Add Disable R Key
+- 瑞兹: 优化Q小兵溅射判定 | Ryze: improve EQ Minion Logic
+- 小火龙: 优化Q伤害计算 | Smolder: improve Q Damage Calculate
+- 薇古丝: 优化Q预判 | Vex: improve Q Prediction
+## 活化剂优化 | Activator

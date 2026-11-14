@@ -1,0 +1,7 @@
+# 2026.07.16
+## 通用功能 | General
+## 英雄优化 | Champions
+- EZ: 优化WA释放判定 | Ezreal: improve WA Cast Logic
+- 剑姬: 重构破绽底层逻辑, 增加开R时锁定AA避免浪费逻辑 | Fiora: Rework Vital Logic, Add Force Move if R Active Logic
+- 烬: 增加只R鼠标附近的敌人选项 | Jhin: Add Only R Near Mouse Target
+## 活化剂优化 | Activator

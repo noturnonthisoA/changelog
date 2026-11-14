@@ -1,0 +1,10 @@
+# 2026.06.12
+## 通用功能 | General
+## 英雄优化 | Champions
+- 剑姬: Q现在会检测无法突进的区域避免浪费 | Fiora: Q now will check DangerZone to avoid waste q
+- 露露: 优化整体性能以及护盾目标选择判断 | Lulu: improve performance and improve E Shield Target logic
+- 派克: 优化Q释放判定 | Pyke: improve q cast logic
+- 小炮: 修复锁定E目标失效 | Tristana: fixed E Logic Target error issue
+- 韦鲁斯: 优化Q蓄力判定 | Varus: improve Q charge cast logic
+- 劫: 优化Q预判 | Zed: improve Q Prediction
+## 活化剂优化 | Activator
