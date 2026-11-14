@@ -1,0 +1,7 @@
+# 2026.10.16
+## 通用功能 | General
+- 走砍: 优化流畅度, 优化快速清线判定 | Orbwalker: improve Orbwalker Smooth, improve Fast LaneClear Logic
+- 反突进: 优化针对狮子狗R判断 | AntiGapcloser: improve VS Rengar R cast
+## 英雄优化 | Champions
+- 薇恩: 增加连招E敌人到自己塔下逻辑, 增加E击杀判断未来AA伤害 | Vayne: Add Combo E Target to Ally Turret Option, Add E Ks Check AA Dmage Option
+## 活化剂优化 | Activator

@@ -1,0 +1,5 @@
+# 2026.09.24
+## 通用功能 | General
+## 英雄优化 | Champions
+- 洛克: 增加更多的W/E选项 | Locke: Add more W/E Options
+## 活化剂优化 | Activator

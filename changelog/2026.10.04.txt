@@ -1,0 +1,5 @@
+# 2026.10.04
+## 通用功能 | General
+## 英雄优化 | Champions
+- 剑姬: 优化Q判定范围 | Fiora: Improve Q Judgement range
+## 活化剂优化 | Activator

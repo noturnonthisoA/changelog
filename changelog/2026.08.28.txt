@@ -1,0 +1,5 @@
+# 2026.08.28
+## 通用功能 | General
+- 走砍: 优化清线速度, 增加减少血量预判量达到更快的清线速度选项 | Orbwalker: Improve LaneClear Speed, Add Allow More Faster LaneClear Speed Option
+## 英雄优化 | Champions
+## 活化剂优化 | Activator

@@ -1,0 +1,7 @@
+# 2026.09.06
+## 通用功能 | General
+## 英雄优化 | Champions
+- 武器: 增加屏蔽E使用按键 | Jax: Add Disable E Usage Hotkey
+- 金克斯: 连招W增加血量检测, 优化自动R击杀判断条件 | Jinx: Add new W Prediction Option, improve R Prediction, Combo W Add HealthPercent Check, improve Auto R Ks Logic
+- 泽丽: 优化清线Q释放逻辑, 优化QEQ爆发逻辑, 重构连招W逻辑 | Zeri: improve LaneClear Q Logic, improve QEQ Burst Logic, Rework Combo W Logic
+## 活化剂优化 | Activator

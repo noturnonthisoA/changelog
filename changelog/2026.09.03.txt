@@ -1,0 +1,11 @@
+# 2026.09.03
+## 通用功能 | General
+## 英雄优化 | Champions
+- 蛇女: 优化极限范围释放+增加W释放目标, 优化R闪判定, 增加额外Q范围选项 | Cassiopeia: improve MaxRange Cast Logic, add W Target Option, improve Semi R Flash Logic, Add Extra Q Range Option
+- 金克斯: 增加新的W/R预判选项, 优化R预判 | Jinx: Add new W/R Prediction Option, improve R Prediction
+- 剑姬: 增加更好的跟随R破绽选项(仅限M走砍) | Fiora: Add Better to Force R Vitals Options (Only My Orb)
+- 小炮: 优化Q/E逻辑, 增加省Q选项以及锁定E选项, 优化R击杀判断(同时增加收集者判断) | Tristana: improve Q/E Logic, add new Q/E Option, improve R Ks Check
+- 霞: 优化羽毛命中判断 | Xayah: improve Feather hit calculate logic
+- 泽丽: 优化清线Q/AA补刀判断逻辑, 优化QEQ爆发逻辑 | Zeri: improve LaneClearQ & AA Farm Logic, improve QEQ Burst Logic
+- 永恩: 增加手动Q3闪按键, 现在Q3闪以及EQ3闪都可以单独设置是否配合R使用, 优化连招R多人逻辑(更多选项) | Yone: Add Semi Q3Flash Key, and now Q3Flas& EQ3Flash also support R usage(with Option), improve Combo R AoE Logic(now option)
+## 活化剂优化 | Activator

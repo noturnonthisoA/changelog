@@ -1,0 +1,8 @@
+# 2026.08.11
+## 通用功能 | General
+## 英雄优化 | Champions
+- 泰坦: 增加手动闪Q按键 | Nautilus: Add Semi Flash Q Key
+- 老鼠: 增加Q范围显示+Q剩余时间显示, 优化R目标判定逻辑 | Twitch: Add Q Range Render + Q Time, improve R Target Switch Logic
+- 泽丽: 优化清线Q/AA补刀判断逻辑 | Zeri: improve LaneClearQ & AA Farm Logic
+- 辛德拉: 增加手动R按键 | Syndra: Add Semi R Key
+## 活化剂优化 | Activator

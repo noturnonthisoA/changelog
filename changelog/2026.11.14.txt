@@ -1,0 +1,16 @@
+# 2026.11.14
+## 通用功能 | General
+- 目标选择: 增加默认切换到官方目标选择选项 | TargetSelector: Add an Option to Force switch Hanbot TS
+- 格挡模块: 增加洛克E1/E2 格挡, 修复部分英雄抛错问题 | SpellBlock: Add Locke E1/E2, also fixed Some Champion throw error
+## 英雄优化 | Champions
+- 小炮: 优化RA击杀伤害计算 | Tristana: Improve RA KillAble Damage Calculate
+- 剑姬: 增加手动W按键, 优化W预判, 优化RW格挡释放时机 | Fiora: Add Semi W Key, improve W Prediction, improve RW BlockSpell Cast Time
+- 琪亚娜: 优化清野逻辑+Q伤害计算, 增加R闪爆发连招, 优化技能释放 | Qiyana: improve JungleClear Logic & Q Damage Calculate, Add R Flash Burst Logic, improve Skillshot Cast
+- 韦鲁斯: 优化技能释放流畅度 | Varus: improve Skillshot Cast smooth
+- 波比: 增加手动E闪按键 | Poppy: Add Semi E Flash Key
+## 活化剂优化 | Activator
+- 新增: 自动Ping眼, 快速跳舞, 反波比闪现 | New: Auto Ping Ward, Spam Animation, Anti Poppy Flash
+- 净化: 修复水银弯刀无效 | Cleanese: fixed QuickSilver not work issue
+- 水印: 增加控制水印位置选项 (何时可以拖拽) | Permashow: Add an option to Control which Time can Drop windows
+- 防御塔伤害重置时间: 增加显示塔伤层数 | Turret Damage Reset Time: Add Draw Turret Damage Count
+- 性能: 优化总体性能 | Performance: improve

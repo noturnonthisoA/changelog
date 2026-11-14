@@ -1,0 +1,5 @@
+# 2026.10.17
+## 通用功能 | General
+## 英雄优化 | Champions
+- 薇恩: 增加自动E反闪现逻辑 | Vayne: Add Auto E Anti Flash Option
+## 活化剂优化 | Activator

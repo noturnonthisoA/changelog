@@ -1,0 +1,14 @@
+# 2026.10.24
+## 通用功能 | General
+## 英雄优化 | Champions
+- 女警: 增加EWQ连招选项 | Caitlyn: Add Combo EWQ Logic
+- 德莱文: 优化E追人判断 | Draven: improve Combo E Chase Target Logic
+- 卡莎: 优化E追人判断 | Kaisa: improve Combo E Chase Target Logic
+- 螳螂: 优化E追人判断 | Khazix: improve Combo E Chase Target Logic
+- 瞎子: 重构回旋踢逻辑, 详细请打开回旋踢菜单查看效果 | LeeSin: Rebuild Insec Logic, you can check Insec Menu get more Details
+- 辛德拉: 修复击杀R判断失效问题 | Syndra: fixed KS R Calculate Error issue
+- 芸阿娜: 修复抛错问题, 优化E追人判断 | Yunara: fixed error throw issue, improve E Chase Target Logic
+- 提莫: 优化W追人判断 | Teemo: improve Combo W Chase Target Logic
+- 天使: 优化W追人判断 | Kayle: improve Combo W Chase Target Logic
+- 维克托: 优化QW追人判断 | Viktor: improve QW Chase Target Logic
+## 活化剂优化 | Activator

@@ -1,0 +1,6 @@
+# 2026.11.02
+## 通用功能 | General
+## 英雄优化 | Champions
+- 瞎子: 优化新回旋踢模式Q使用判断 | LeeSin: improve NewInsec Q Cast Logic
+- 亚索: 一键EQ闪按键可以配合连招一起使用, 优化新连招E突进逻辑, 增加Q3抵消控制, 增加Q反闪现 | Yasuo: SemiEQ Flash Can Use with Combo Mode, improve E Dash Logic[New Mode],  Add Q3 AntiControl Logic, Add Q AntiFlash Logic
+## 活化剂优化 | Activator

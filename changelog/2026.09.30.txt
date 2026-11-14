@@ -1,0 +1,7 @@
+# 2026.09.30
+## 通用功能 | General
+## 英雄优化 | Champions
+- 天使: 增加自动E击杀逻辑 | Kayle: Add Auto E Ks Logic
+- 螳螂: 增加自动E出塔逻辑 | Khazix: Add Auto E Escape Turret Logic
+- 洛克: 优化自动E出塔逻辑 | Locke: Improve Auto E Escape Turret
+## 活化剂优化 | Activator

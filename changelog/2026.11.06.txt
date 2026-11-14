@@ -1,0 +1,7 @@
+# 2026.11.06
+## 通用功能 | General
+## 英雄优化 | Champions
+- 瞎子: 优化Q预判 | LeeSin: improve Q Prediction
+## 活化剂优化 | Activator
+- 自动惩戒: 重构完毕 | Auto Smite: Rebuild Successful
+- 自动净化: 重构完毕 | Auto Cleanese: Rebuild Successful

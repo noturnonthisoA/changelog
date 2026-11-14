@@ -1,0 +1,5 @@
+# 2026.10.13
+## 通用功能 | General
+- 走砍: 重构AA判断, 优化高攻速走A也能打出来几乎等同于站撸的伤害 | Orbwalker: better AA Calculate Logic, better Farm Logic, better Orbwalker Logic in High AS
+## 英雄优化 | Champions
+## 活化剂优化 | Activator

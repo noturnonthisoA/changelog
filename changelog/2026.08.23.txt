@@ -1,0 +1,6 @@
+# 2026.08.23
+## 通用功能 | General
+- 走砍: 新增单独走砍 | Orbwalker: add MasterOrbwalker in Menu
+## 英雄优化 | Champions
+- 格温: 连招增加自动R2/R3释放 | Gwen: add Auto R2/R3 in Combo Mode
+## 活化剂优化 | Activator

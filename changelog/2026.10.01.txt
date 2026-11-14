@@ -1,0 +1,8 @@
+# 2026.10.01
+## 通用功能 | General
+- 伤害显示: 增加百分比伤害显示, 血条显示现在有单独开关控制 | DamageRender: Add Percent Text Render, HPBar have single Option to control
+- 技能格挡: 提早部分英雄的格挡释放时间, 避免格挡失败 | SpellBlock: improve Spell Cast Time to avoid Block fail
+## 英雄优化 | Champions
+- 俄洛伊: 增加无脑连招W选项 | Illaoi: Add Always W Combo Option
+- 梅尔: 优化E预判, 增加AA击杀小兵提示, 增加R击杀提示 [已移除, 请使用伤害显示内置] | Mel: Improve E Prediction Logic, Add AA Ks Render, Add R Ks Tips[Removed, Use DamageRender internal one better]
+## 活化剂优化 | Activator

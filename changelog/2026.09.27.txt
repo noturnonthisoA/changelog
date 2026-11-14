@@ -1,0 +1,5 @@
+# 2026.09.27
+## 通用功能 | General
+## 英雄优化 | Champions
+- 琪亚娜: 优化清野逻辑 | Qiyana: Improve JungleClear Logic
+## 活化剂优化 | Activator

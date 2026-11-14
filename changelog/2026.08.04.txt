@@ -1,0 +1,7 @@
+# 2026.08.04
+## 通用功能 | General
+- 格挡模块: 修复部分技能格挡失效 | SpellBlock: fixed some spell not work
+- : 部分英雄细节优化 | : Some Champion Logic Updated
+## 英雄优化 | Champions
+- 武器: 优化Q释放逻辑, 增加Q目标选项 | Jax: Add Q Target Options, force on Select Target first
+## 活化剂优化 | Activator

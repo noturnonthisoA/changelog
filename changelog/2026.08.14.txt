@@ -1,0 +1,7 @@
+# 2026.08.14
+## 通用功能 | General
+## 英雄优化 | Champions
+- 伊泽瑞尔: 优化清线/补刀Q逻辑 | Ezreal: improve LaneClear/Lasthit Q Logic
+- 阿卡丽: 增加经典服支持 | Akali: Add Classic Mode Support
+- 凯南: 增加经典服支持 | Kennen: Add Classic Mode Support
+## 活化剂优化 | Activator

@@ -1,0 +1,5 @@
+# 2026.09.26
+## 通用功能 | General
+## 英雄优化 | Champions
+- 剑姬: 优化R破绽搜索逻辑 | Fiora: Improve R Vtial Hit&Search Logic
+## 活化剂优化 | Activator

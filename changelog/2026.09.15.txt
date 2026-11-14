@@ -1,0 +1,6 @@
+# 2026.09.15
+## 通用功能 | General
+## 英雄优化 | Champions
+- 亚索: 调整连招E默认配置的判断权重 | Yasuo: Change Combo E Default Config Weight
+- 泽丽: 再度优化清线Q逻辑 | Zeri: improve LaneClear Q Logic
+## 活化剂优化 | Activator

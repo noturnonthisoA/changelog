@@ -1,0 +1,6 @@
+# 2026.10.28
+## 通用功能 | General
+## 英雄优化 | Champions
+- 大虫子: 增加惩戒+R清野抢野怪逻辑(默认关闭) | Chogath: Add Smite+R Steal Mob Logic (Default OFF)
+- 船长: 优化一桶释放判定 | Gangplank: improve First Barrel Cast Prediction
+## 活化剂优化 | Activator

@@ -1,0 +1,7 @@
+# 2026.08.17
+## 通用功能 | General
+- 预判: 优化Master预判释放位置判定 | Prediction: improve MasterPrediction judgement logic in some case
+## 英雄优化 | Champions
+- 伊泽瑞尔: 修复经典服修复Q/W失效问题 | Ezreal: Fixed Classic Mode Q/W Not work issue
+- 瞎子: 修复R多人模式下在某些情况下不R的问题 | LeeSin: fixed R Multi Mode doesnt work in some case issue
+## 活化剂优化 | Activator

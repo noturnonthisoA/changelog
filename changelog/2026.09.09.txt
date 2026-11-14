@@ -1,0 +1,7 @@
+# 2026.09.09
+## 通用功能 | General
+## 英雄优化 | Champions
+- 伊泽瑞尔: 增加W预判参数切换选项 | Ezreal: Add W Prediction Switch Option
+- 光辉: 增加自动R压起身逻辑 | Lux: Add Auto R CC Logic
+- 螳螂: 新增支持 | Khazix: New Champion Added
+## 活化剂优化 | Activator

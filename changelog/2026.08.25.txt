@@ -1,0 +1,8 @@
+# 2026.08.25
+## 通用功能 | General
+- 预判: 优化近距离释放判定逻辑 | Prediction: improve closer range cast judgement
+- 走砍: 优化清线速度 | Orbwalker: Improve LaneClear Speed
+## 英雄优化 | Champions
+- 伊泽瑞尔: 优化清线/补刀Q逻辑, 优化WQ释放判断 | Ezreal: improve LaneClear/Lasthit Q Logic, Improve WQ Cast Logic
+- 亚索: 调整激进模式E释放判断 | Yasuo: change E Aggressive Mode Logic
+## 活化剂优化 | Activator

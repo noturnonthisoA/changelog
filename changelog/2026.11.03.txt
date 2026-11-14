@@ -1,0 +1,6 @@
+# 2026.11.03
+## 通用功能 | General
+## 英雄优化 | Champions
+- 琪亚娜: 优化清野逻辑+Q伤害计算 | Qiyana: improve JungleClear Logic & Q Damage Calculate
+- 泽丽: 重构Q逻辑[巨大改动], 并且清线逻辑增加等Q选项, 版本更改为2.5 | Zeri: rebuild Q Logic[huge change], Also LaneClear Add Wait Q Option, version change to 2.5
+## 活化剂优化 | Activator

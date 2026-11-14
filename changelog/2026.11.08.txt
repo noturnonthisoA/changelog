@@ -1,0 +1,7 @@
+# 2026.11.08
+## 通用功能 | General
+- 技能格挡: 增加低血量强制格挡选项 | SpellBlock: Add Force Block All Spell in LowHealth Option
+## 英雄优化 | Champions
+- 烬: 优化W预判, 增加反突进W, 增加W范围设置选项 | Jhin: improve W Prediction, Add AntiGapcloser W Logic, Add W Range JudgeMent Option
+- 小炮: 优化R击杀伤害判断, 同时增加AA伤害预判选项 | Tristana: improve R Ks Damage Calculate, Add AA Count Calculate Option
+## 活化剂优化 | Activator

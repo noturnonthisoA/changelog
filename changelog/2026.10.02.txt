@@ -1,0 +1,7 @@
+# 2026.10.02
+## 通用功能 | General
+- 走砍: 同步最新改动 | Orbwalker: commit to latest change
+## 英雄优化 | Champions
+- 格温: 增加开启W后关闭躲避选项 | Gwen: Add Disable Evade when W Active Option
+- 霞: 增加省W选项(连招) | Xayah: Add Save W Logic (Combo)
+## 活化剂优化 | Activator

@@ -1,0 +1,5 @@
+# 2026.09.25
+## 通用功能 | General
+## 英雄优化 | Champions
+- 剑姬: 优化RQ破绽判定 | Fiora: Improve RQ Vital Logic
+## 活化剂优化 | Activator

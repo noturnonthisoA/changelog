@@ -1,0 +1,15 @@
+# 2026.10.19
+## 通用功能 | General
+- 目标选择: 增加小窗口显示(默认关闭) | TargetSelector: Add MiniBox Render(default OFF)
+## 英雄优化 | Champions
+- 狼母: 优化技能衔接流畅度 | Ambessa: improve Skillshot cast smoother
+- 男枪: 优化ER爆发连招 | Graves: improve Burst Combo
+- 格温: 增加开启W后关闭躲避选项, 增加Q控制抵消选项 | Gwen: Add Disable Evade when W Active Option, Add Auto Q Anti Control Option
+- 皇子: 增加连招EQ多人逻辑 | JarvanIV: Add Combo EQ Aoe Logic
+- 卡莎: 修复自动进化失效问题 | Kaisa: fixed Auto Evolve not work issue
+- 卢锡安: 优化技能衔接流畅度 | Lucian: improve Skillshot cast smoother
+- 小炮: 优化技能衔接流畅度 | Twistana: improve Skillshot cast smoother
+- 老鼠: 修复隐身回城失效问题 | Twitch: fixed Stealth Recall not work issue
+- 亚索: 调整EQ命中判定, 精简E目标搜索逻辑 | Yasuo: Improve EQ Hit Pred, reduce Combo E Target Search Logic
+- 芸阿娜: 修复RE失效问题 | Yunara: fixed RE not work issue
+## 活化剂优化 | Activator

@@ -1,0 +1,8 @@
+# 2026.10.26
+## 通用功能 | General
+- 总体: 优化合集整体性能 | Global: improve AIO FPS & Performance
+## 英雄优化 | Champions
+- 厄斐琉斯: 优化走砍流畅度 | Aphelios: improve Orbwalker Smooth
+- 剑姬: 增加部分屏蔽磁吸破绽选项 | Fiora: Add Disable Orbwalker Vital Options
+- 亚索: 修复Q3抛错问题, 增加新的E逻辑 | Yasuo: fixed Q3 throw error issue, Add new E Logic
+## 活化剂优化 | Activator

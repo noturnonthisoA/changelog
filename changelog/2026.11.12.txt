@@ -1,0 +1,8 @@
+# 2026.11.12
+## 通用功能 | General
+- 显示: 修复4K模式下显示错位(包括DPI优化) | Render: Fixed 4K screen render wrong pos (inclide DPI improve)
+## 英雄优化 | Champions
+- 狮子狗: 增加强制下次连招满怒E选项 | Rengar: Add Force E Emp in Next Combo Option
+- 剑姬: 修复RW格挡失效 | Fiora: fixed RW Block Spell not work issue
+- 金克斯: 移除部分连招E选项 | Jinx: Removed Some Combo E Option
+## 活化剂优化 | Activator

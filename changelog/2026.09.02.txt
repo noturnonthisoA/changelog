@@ -1,0 +1,8 @@
+# 2026.09.02
+## 通用功能 | General
+- 控制抵消: 重写完毕, 现在支持绝大部分英雄技能 | AntiControl: Rewrite and now support almost skillshot
+- 云阿娜: 重写连招普通E逻辑 | Yunara: Rewrite Combo Normal E Logic
+## 英雄优化 | Champions
+- 小炮: 优化Q/E逻辑, 增加省Q选项以及锁定E选项 | Tristana: improve Q/E Logic, add new Q/E Option
+## 活化剂优化 | Activator
+- 新增: 终极九头蛇+敌人攻击范围显示 | New: Ultra Hydra Usage and Enemy AttackRange Render

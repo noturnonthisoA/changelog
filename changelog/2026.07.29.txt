@@ -1,0 +1,6 @@
+# 2026.07.29
+## 通用功能 | General
+## 英雄优化 | Champions
+- 潘森: 手动W按键 & 手动闪W按键 | Pantheon: Add Semi W Key and Semi Flash W Key
+- 亚索: 增加快速Q3选项 | Yasuo: Add Fast Q3 Option
+## 活化剂优化 | Activator

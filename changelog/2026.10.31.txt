@@ -1,0 +1,7 @@
+# 2026.10.31
+## 通用功能 | General
+- 预判: 优化M预判 | Prediction: improve Master Prediction
+- 总体: 修复所有英雄闪现连招失效问题 | Global: fixed all Champion Flash Combo broken issue
+- 技能格挡: 增加卡特Q格挡 | SpellBlock: Add Katarina Q Block
+## 英雄优化 | Champions
+## 活化剂优化 | Activator

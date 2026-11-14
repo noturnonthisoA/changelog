@@ -1,0 +1,5 @@
+# 2026.10.09
+## 通用功能 | General
+- 走砍: 优化补刀逻辑 | Orbwalker: improve farm logic'
+## 英雄优化 | Champions
+## 活化剂优化 | Activator

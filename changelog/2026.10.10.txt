@@ -1,0 +1,7 @@
+# 2026.10.10
+## 通用功能 | General
+- 走砍: 优化部分英雄AA延迟 | Orbwalker: improve Some Champion AA Delay Check
+## 英雄优化 | Champions
+- 狮子狗: 修复开R的时候会自动E打断 | Rengar: Disable Auto E if R Active
+- 锤石: 增加连招留E设置, 增加自动E对突进目标使用逻辑(推/拉) | Thresh: Add Combo Save E Settings, Add Auto E Dash Logic (Pull or Push)
+## 活化剂优化 | Activator
