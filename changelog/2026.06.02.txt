@@ -1,0 +1,10 @@
+# 2026.06.02
+## 通用功能 | General
+## 英雄优化 | Champions
+- 狼母: 调整技能释放频率 | Ambessa: improve Skillshot cast logic
+- 机器人: 优化Q预判 | Blitzcrank: improve Q Prediction
+- 男枪: 优化E释放逻辑 | Graves: improve E Cast Logic
+- 亚索: 支持海克斯秘书冲拳 | Yasuo: Support Hex "MysticPunch"
+- 永恩: 支持海克斯秘书冲拳, 优化R性能判定 | Yone: Support Hex "MysticPunch", improve R performance
+- 婕拉: 优化W连招释放判定 | Zyra: improve W Combo Logic
+## 活化剂优化 | Activator

@@ -1,0 +1,10 @@
+# 2026.11.17
+## 通用功能 | General
+## 英雄优化 | Champions
+- 格温: 修复开W的时候躲避判断错误情况 | Gwen: fixed W active still evade issue
+- 螳螂: 修复连招Q部分情况下不释放的问题 | Khazix: fixed Combo Q doesnt work in some case issue
+- 娜美: 增加手动Q/Q闪按键, 增加连招W友军溅射逻辑(默认关闭) | Nami: Add Semi Q/QFlash Key, Add Combo W Ally bounces to Enemy Option(Default OFF)
+- 金克斯: 连招EW增加范围检查选项 | Jinx: Combo EW Add Range Check Option
+- 芸阿娜: 优化连招W释放逻辑(需要去菜单重新设置) | Yunara: improve Combo W Logic (need to reset config in WMenu
+- 蛮子: 修复物品不会配合释放的问题 | Tryndamere: fixed Item not use with plugin issue
+## 活化剂优化 | Activator

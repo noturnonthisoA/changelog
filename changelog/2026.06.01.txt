@@ -1,0 +1,12 @@
+# 2026.06.01
+## 通用功能 | General
+## 英雄优化 | Champions
+- EZ: 优化连招逻辑，移除某些条件下会强制限制技能无法释放问题 | Ezreal: improve Combo Logic, fixed in some case wont be cast spell issue
+- 瑞兹: 优化Q预判 | Ryze: improve Q Prediciton
+- 劫: 优化R落地A判定, 优化R击杀判定 | Zed: improve R+AA judgement, improve R KS Damage Calculate
+- 婕拉: 优化技能衔接流畅度 | Zyra: improve skillshot Smooth
+- 金克斯: 增加"高攻速时禁止W"选项, 优化W技能释放角度限制逻辑 | Jinx: Add 'Disable W Cast in HighSpeed' Option, improve W Limit Angle Logic Judgement
+- 卡莎: 修复被动伤害计算错误判定, 优化连招W层数计算判定 | Kaisa: fixed Passive Damage Calculate Error, improve Combo W Stacks check
+- 滑板鞋: 重构E伤害计算, 增加收集者计算判定, 修复 斗魂模式下计算错误 | Kalista: rework E damage Calculate, Add some Item Damage Check, fixed Arena Mode damage calculate error
+- 泽丽: 优化Q技能逻辑 | Zeri: improve Q Logic
+## 活化剂优化 | Activator

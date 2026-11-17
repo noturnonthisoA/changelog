@@ -1,0 +1,6 @@
+# 2026.11.15
+## 通用功能 | General
+## 英雄优化 | Champions
+- 琪亚娜: 重构R释放判定逻辑 | Qiyana: Rework R Wall Collision Logic
+- 剑姬: 调整W预判 | Fiora: improve W Prediction
+## 活化剂优化 | Activator

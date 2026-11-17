@@ -1,12 +1,34 @@
 {
-  "generatedAt": "2026-11-14T13:39:07+08:00",
-  "count": 47,
+  "generatedAt": "2026-11-17T09:28:57+08:00",
+  "count": 52,
   "versions": [
+    {
+      "id": "2026.11.17",
+      "file": "2026.11.17.txt",
+      "date": "2026.11.17",
+      "latest": true,
+      "mode": "rift",
+      "badge": null,
+      "version": null,
+      "summary": null,
+      "count": 6
+    },
+    {
+      "id": "2026.11.15",
+      "file": "2026.11.15.txt",
+      "date": "2026.11.15",
+      "latest": false,
+      "mode": "rift",
+      "badge": null,
+      "version": null,
+      "summary": null,
+      "count": 2
+    },
     {
       "id": "2026.11.14",
       "file": "2026.11.14.txt",
       "date": "2026.11.14",
-      "latest": true,
+      "latest": false,
       "mode": "rift",
       "badge": null,
       "version": null,
@@ -518,6 +540,39 @@
       "version": null,
       "summary": null,
       "count": 8
+    },
+    {
+      "id": "2026.06.02",
+      "file": "2026.06.02.txt",
+      "date": "2026.06.02",
+      "latest": false,
+      "mode": "rift",
+      "badge": null,
+      "version": null,
+      "summary": null,
+      "count": 6
+    },
+    {
+      "id": "2026.06.01",
+      "file": "2026.06.01.txt",
+      "date": "2026.06.01",
+      "latest": false,
+      "mode": "rift",
+      "badge": null,
+      "version": null,
+      "summary": null,
+      "count": 8
+    },
+    {
+      "id": "2026.01.01",
+      "file": "2026.01.01.txt",
+      "date": "2026.01.01",
+      "latest": false,
+      "mode": "rift",
+      "badge": null,
+      "version": null,
+      "summary": null,
+      "count": 1
     }
   ]
 }
