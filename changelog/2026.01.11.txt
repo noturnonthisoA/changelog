@@ -1,0 +1,8 @@
+# 2026.01.11
+## 通用功能 | General
+## 英雄优化 | Champions
+- EZ: 修复WQ连招失效问题 | Ezreal: fixed Combo WQ not work issue
+- 日女: 优化R多人预判 | Leona: improve R AoE Prediction
+- 石头人: 优化R多人预判 | Malphite: improve R AoE Prediction
+- 亚索: 修复技能格挡失效, 优化E逻辑, 优化EQ闪释放判定 | Yasuo: fixed SpellBlock not work on some Spell issue, improve some case judgement with E Logic, improve EQ Flash Cast Position
+## 活化剂优化 | Activator

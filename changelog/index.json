@@ -1,12 +1,23 @@
 {
-  "generatedAt": "2026-11-17T09:28:57+08:00",
-  "count": 52,
+  "generatedAt": "2026-11-19T04:08:48+08:00",
+  "count": 56,
   "versions": [
+    {
+      "id": "2026.11.19",
+      "file": "2026.11.19.txt",
+      "date": "2026.11.19",
+      "latest": true,
+      "mode": "rift",
+      "badge": null,
+      "version": null,
+      "summary": null,
+      "count": 3
+    },
     {
       "id": "2026.11.17",
       "file": "2026.11.17.txt",
       "date": "2026.11.17",
-      "latest": true,
+      "latest": false,
       "mode": "rift",
       "badge": null,
       "version": null,
@@ -562,6 +573,39 @@
       "version": null,
       "summary": null,
       "count": 8
+    },
+    {
+      "id": "2026.01.14",
+      "file": "2026.01.14.txt",
+      "date": "2026.01.14",
+      "latest": false,
+      "mode": "rift",
+      "badge": null,
+      "version": null,
+      "summary": null,
+      "count": 5
+    },
+    {
+      "id": "2026.01.11",
+      "file": "2026.01.11.txt",
+      "date": "2026.01.11",
+      "latest": false,
+      "mode": "rift",
+      "badge": null,
+      "version": null,
+      "summary": null,
+      "count": 4
+    },
+    {
+      "id": "2026.01.09",
+      "file": "2026.01.09.txt",
+      "date": "2026.01.09",
+      "latest": false,
+      "mode": "rift",
+      "badge": null,
+      "version": null,
+      "summary": null,
+      "count": 0
     },
     {
       "id": "2026.01.01",

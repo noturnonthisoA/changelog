@@ -1,0 +1,9 @@
+# 2026.01.14
+## 通用功能 | General
+- 预判: 优化CC预判 | Prediction: improve CC Prediction
+## 英雄优化 | Champions
+- EZ: 优化连招集中目标释放逻辑 | Ezreal: improve Combo force shoot to one Target logic
+- 小火龙: 优化Q补刀逻辑 | Smolder: improve Q Farm Logic
+- 小炮: 修复部分情况下W会强制打断E释放逻辑 | Tristana: fixed W Casting will block E Logic cast
+- 亚索: 增加连招EQ闪集中判定逻辑, 优化清野E逻辑 | Yasuo: add EQ Flash to forceTarget logic, improve JungleClear E Logic
+## 活化剂优化 | Activator

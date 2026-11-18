@@ -1,0 +1,7 @@
+# 2026.11.19
+## 通用功能 | General
+- 预判: 移除部分选项, 调整命中判定逻辑 | Prediction: remove some option and change some hitchance calc logic
+## 英雄优化 | Champions
+- 泽丽: 优化连招W逻辑 | Zeri: improve Combo W Logic
+- 洛克: 优化Q-E2释放逻辑 | Locke: improve Combo Q+E2 Cast Logic
+## 活化剂优化 | Activator
