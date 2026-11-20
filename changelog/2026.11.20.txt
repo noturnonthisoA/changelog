@@ -1,0 +1,7 @@
+# 2026.11.20
+## 通用功能 | General
+- 预判: 调整命中判定逻辑 | Prediction: change some hitchance calc logic
+## 英雄优化 | Champions
+- 卡莎: 调整W预判 | Kaisa: improve W Prediction
+- 杰斯: 调整Q/EQ预判 | Jayce: improve Q/EQ Prediction
+## 活化剂优化 | Activator

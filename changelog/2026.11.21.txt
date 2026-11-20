@@ -1,0 +1,5 @@
+# 2026.11.21
+## 通用功能 | General
+- 走砍: 现在走砍会使用同样的设置(不需要每个英雄重新打开一次) | Orbwalker: now Orbwalker have same config with All Champion
+## 英雄优化 | Champions
+## 活化剂优化 | Activator
